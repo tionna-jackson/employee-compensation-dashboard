@@ -31,7 +31,7 @@ The goal is to identify pay disparities, trends in average salary, and workforce
 
 ### 📈 Dashboard Preview
 - Screenshot (8).png
----
+---https://github.com/tionna-jackson/employee-compensation-dashboard/blob/c3da2ecbaa4dcae4ed5483e49b78c9ff2d8dd340/Screenshot%20(8).png
 
 ### 🧠 Key Insights
 - Average total compensation varies **35% between departments**
