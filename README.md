@@ -30,7 +30,7 @@ The goal is to identify pay disparities, trends in average salary, and workforce
 ---
 
 ### 📈 Dashboard Preview
-
+- Screenshot (8).png
 ---
 
 ### 🧠 Key Insights
