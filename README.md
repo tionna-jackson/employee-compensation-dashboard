@@ -1,11 +1,11 @@
-# employee-compensation-dashboard
-Interactive Tableau dashboard analyzing employee compensation, department KPIs, and payroll insights 
+
+
 
 # 💼 Employee Compensation Dashboard
 
 ### 📊 Overview
 This project analyzes employee compensation, payroll, and departmental performance metrics using Excel and Tableau.  
-The goal is to identify pay disparities, trends in average salary, and workforce cost distribution.
+The goal is to identify pay disparities, trends in average salary, and workforce cost distribution. Interactive Tableau dashboard analyzing employee compensation, department KPIs, and payroll insights 
 
 ---
 
