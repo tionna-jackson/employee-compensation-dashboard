@@ -30,7 +30,7 @@ The goal is to identify pay disparities, trends in average salary, and workforce
 ---
 
 ### 📈 Dashboard Preview
-Compensation Dashboard.twb
+
 ---
 
 ### 🧠 Key Insights
