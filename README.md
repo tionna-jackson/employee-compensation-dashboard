@@ -48,6 +48,7 @@ The goal is to identify pay disparities, trends in average salary, and workforce
 
 ---
 
-### 👩🏽‍💻 Author
+## 👩🏽‍💻 Author
 **Tionna Jackson**  
-[LinkedIn Profile](https://www.linkedin.com/) • [https://tionnajackson.my.canva.site/copy-of-portfolio-website]
+Data Analyst | Skilled in SQL, Excel, and PowerBI | Passionate about turning data into stories.  
+📍 Dallas, TX| https://tionnajackson.my.canva.site/copy-of-portfolio-website |
