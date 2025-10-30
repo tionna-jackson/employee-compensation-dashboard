@@ -30,8 +30,7 @@ The goal is to identify pay disparities, trends in average salary, and workforce
 ---
 
 ### 📈 Dashboard Preview
-![Employee Payroll Dashboard](Tableau_Dashboard.png)
-
+Compensation Dashboard.twb
 ---
 
 ### 🧠 Key Insights
