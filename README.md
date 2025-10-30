@@ -10,7 +10,7 @@ The goal is to identify pay disparities, trends in average salary, and workforce
 ---
 
 ### 🗂️ Dataset
-- **File:** `employees_payroll.csv`
+- **File:** `employees_payroll_updated.csv`
 - **Rows:** 2,000+ records
 - **Key Fields:** Employee ID, Department, Job Level, Annual Salary, Bonus, Total Compensation, Tenure, Gender, Location
 
