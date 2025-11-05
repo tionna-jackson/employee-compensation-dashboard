@@ -46,7 +46,8 @@ The goal is to identify pay disparities, trends in average salary, and workforce
 - Tableau (Visualization & KPI Tracking)
 - GitHub (Version Control & Portfolio Hosting)
 
----
+### 📊 Interactive Dashboard 
+[View the live Tableau dashboard here](https://public.tableau.com/shared/SRQX286J6?:display_count=n&:origin=viz_share_link)
 
 ## 👩🏽‍💻 Author
 **Tionna Jackson**  
